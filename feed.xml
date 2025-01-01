@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>NguyenHaiSonBlog</title>
-    <link href="https://Sk21tsv.github.io/ltmmt/feed.xml" rel="self" />
-    <link href="https://Sk21tsv.github.io/ltmmt" />
+    <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/feed.xml" rel="self" />
+    <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon" />
     <updated>2025-01-01T10:36:53+07:00</updated>
     <author>
         <name>Nguyễn Hải Sơn</name>
     </author>
-    <id>https://Sk21tsv.github.io/ltmmt</id>
+    <id>https://Sk21tsv.github.io/BlogNguyenHaiSon</id>
 
     <entry>
         <title>Giới Thiệu JavaScrip</title>
         <author>
             <name>Nguyễn Hải Sơn</name>
         </author>
-        <link href="https://Sk21tsv.github.io/ltmmt/gioi-thieu-javascrip.html"/>
-        <id>https://Sk21tsv.github.io/ltmmt/gioi-thieu-javascrip.html</id>
+        <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/gioi-thieu-javascrip.html"/>
+        <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/gioi-thieu-javascrip.html</id>
 
         <updated>2025-01-01T10:36:53+07:00</updated>
             <summary>
@@ -149,8 +149,8 @@
         <author>
             <name>Nguyễn Hải Sơn</name>
         </author>
-        <link href="https://Sk21tsv.github.io/ltmmt/javascript-essentials-1-modun1.html"/>
-        <id>https://Sk21tsv.github.io/ltmmt/javascript-essentials-1-modun1.html</id>
+        <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-1-modun1.html"/>
+        <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-1-modun1.html</id>
 
         <updated>2025-01-01T10:34:20+07:00</updated>
             <summary>
@@ -314,8 +314,8 @@
         <author>
             <name>Nguyễn Hải Sơn</name>
         </author>
-        <link href="https://Sk21tsv.github.io/ltmmt/javascript-essentials-1-modun-2.html"/>
-        <id>https://Sk21tsv.github.io/ltmmt/javascript-essentials-1-modun-2.html</id>
+        <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-1-modun-2.html"/>
+        <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-1-modun-2.html</id>
 
         <updated>2025-01-01T10:32:36+07:00</updated>
             <summary>
@@ -373,8 +373,8 @@
         <author>
             <name>Nguyễn Hải Sơn</name>
         </author>
-        <link href="https://Sk21tsv.github.io/ltmmt/javascript-essentials-2-modun-3-2.html"/>
-        <id>https://Sk21tsv.github.io/ltmmt/javascript-essentials-2-modun-3-2.html</id>
+        <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-3-2.html"/>
+        <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-3-2.html</id>
 
         <updated>2025-01-01T10:30:58+07:00</updated>
             <summary>
@@ -439,8 +439,8 @@
         <author>
             <name>Nguyễn Hải Sơn</name>
         </author>
-        <link href="https://Sk21tsv.github.io/ltmmt/javascript-essentials-2-modun-3.html"/>
-        <id>https://Sk21tsv.github.io/ltmmt/javascript-essentials-2-modun-3.html</id>
+        <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-3.html"/>
+        <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-3.html</id>
 
         <updated>2025-01-01T10:29:21+07:00</updated>
             <summary>
@@ -548,8 +548,8 @@
         <author>
             <name>Nguyễn Hải Sơn</name>
         </author>
-        <link href="https://Sk21tsv.github.io/ltmmt/javascript-essentials-2-modun-2.html"/>
-        <id>https://Sk21tsv.github.io/ltmmt/javascript-essentials-2-modun-2.html</id>
+        <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-2.html"/>
+        <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-2.html</id>
 
         <updated>2025-01-01T10:29:13+07:00</updated>
             <summary>
@@ -609,8 +609,8 @@
         <author>
             <name>Nguyễn Hải Sơn</name>
         </author>
-        <link href="https://Sk21tsv.github.io/ltmmt/javascript-essentials-2-modun1.html"/>
-        <id>https://Sk21tsv.github.io/ltmmt/javascript-essentials-2-modun1.html</id>
+        <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun1.html"/>
+        <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun1.html</id>
 
         <updated>2025-01-01T10:28:32+07:00</updated>
             <summary>
@@ -676,8 +676,8 @@
         <author>
             <name>Nguyễn Hải Sơn</name>
         </author>
-        <link href="https://Sk21tsv.github.io/ltmmt/khoa-hoc-javascript-essentials-2.html"/>
-        <id>https://Sk21tsv.github.io/ltmmt/khoa-hoc-javascript-essentials-2.html</id>
+        <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/khoa-hoc-javascript-essentials-2.html"/>
+        <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/khoa-hoc-javascript-essentials-2.html</id>
 
         <updated>2025-01-01T10:23:05+07:00</updated>
             <summary>
