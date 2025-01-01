@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/Sk21tsv/BlogNguyenHaiSon/sitemap.xml
+Sitemap: https://BlogNguyenHaiSon.github.io/ltmmt/sitemap.xml
