@@ -3,12 +3,46 @@
     <title>NguyenHaiSonBlog</title>
     <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/feed.xml" rel="self" />
     <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon" />
-    <updated>2025-01-01T10:36:53+07:00</updated>
+    <updated>2025-01-03T20:44:54+07:00</updated>
     <author>
         <name>Nguyễn Hải Sơn</name>
     </author>
     <id>https://Sk21tsv.github.io/BlogNguyenHaiSon</id>
 
+    <entry>
+        <title>Java là gì? Tổng quan về ngôn ngữ lập trình Java cho người mới</title>
+        <author>
+            <name>Nguyễn Hải Sơn</name>
+        </author>
+        <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/java-la-gi-tong-quan-ve-ngon-ngu-lap-trinh-java-cho-nguoi-moi.html"/>
+        <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/java-la-gi-tong-quan-ve-ngon-ngu-lap-trinh-java-cho-nguoi-moi.html</id>
+        <media:content url="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/13/java-la-gi.jpg" medium="image" />
+            <category term="Blog"/>
+
+        <updated>2025-01-03T20:44:42+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/13/java-la-gi.jpg" alt="" />
+                    Java là gì? Tổng quan về ngôn ngữ lập trình Java cho người mới Java là gì? Java là ngôn ngữ lập trình đa nền tảng (cross-platform), được phát triển bởi James Gosling tại Sun Microsystems (nay là Oracle Corporation). Ngôn ngữ lập trình này ra&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/13/java-la-gi.jpg" class="type:primaryImage" alt="" /></p>
+                <h1 class="text-textOnWhitePrimary h2-semibold">Java là gì? Tổng quan về ngôn ngữ lập trình Java cho người mới</h1>
+<h2 id="article-detail-0"><strong>Java là gì?</strong></h2>
+<p>Java là ngôn ngữ lập trình đa nền tảng (cross-platform), được phát triển bởi James Gosling tại Sun Microsystems (nay là Oracle Corporation). Ngôn ngữ lập trình này ra đời vào năm 1995 và được thiết kế để có thể chạy trên các nền tảng khác nhau, từ máy tính cá nhân đến thiết bị di động, các máy chủ và thiết bị nhúng.</p>
+<p>Java sử dụng cấu trúc lập trình hướng đối tượng (object-oriented programming - OOP) và được xây dựng trên cơ sở của ngôn ngữ lập trình C++. Nó cung cấp một môi trường chạy ảo (virtual machine) gọi là Java Virtual Machine (JVM), giúp các chương trình Java có thể chạy trên nhiều nền tảng khác nhau mà không cần phải biên dịch lại.</p>
+<h2 id="article-detail-1"><strong>Các tính năng của Java</strong></h2>
+<h3><strong>Đa nền tảng</strong></h3>
+<p>Java được thiết kế để có thể chạy trên nhiều nền tảng khác nhau, vì vậy nó rất phù hợp cho việc phát triển các ứng dụng đa nền tảng. Java sử dụng một máy ảo (JVM - Java Virtual Machine) để chạy mã nguồn, vì vậy mã nguồn được viết một lần và có thể chạy trên nhiều hệ điều hành khác nhau mà không cần thay đổi.</p>
+<h3><strong>Quản lý bộ nhớ tự động</strong></h3>
+<p>Java có tính năng tự động quản lý bộ nhớ, tức là nó tự động thu dọn các vùng nhớ không sử dụng nữa để giảm thiểu các lỗi bộ nhớ. Điều này giúp cho các ứng dụng được viết bằng Java có thể chạy ổn định và tránh các lỗi liên quan đến bộ nhớ.</p>
+<h3><strong>Hỗ trợ đa luồng</strong></h3>
+<p>Java có thể xử lý đa luồng, cho phép chương trình thực hiện nhiều tác vụ cùng một lúc. Điều này giúp cho các ứng dụng có thể chạy nhanh và hiệu quả hơn, đặc biệt là khi phải xử lý nhiều tác vụ cùng một lúc.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Giới Thiệu JavaScrip</title>
         <author>
@@ -16,20 +50,24 @@
         </author>
         <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/gioi-thieu-javascrip.html"/>
         <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/gioi-thieu-javascrip.html</id>
+        <media:content url="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/9/anhjavascrip.jpg" medium="image" />
+            <category term="Blog"/>
 
         <updated>2025-01-01T10:36:53+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/9/anhjavascrip.jpg" alt="" />
                     1.1.1 Giới thiệu Vậy bạn muốn học cách lập trình bằng JavaScript? Thật tuyệt! Khóa học này sẽ là một hành trình khá dài, nhưng nếu bạn hoàn thành khóa học, bạn sẽ có thể đọc, hiểu và tất nhiên là viết các ứng dụng&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/9/anhjavascrip.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="article__header-wrapper background-color-gray ">
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level=""><span>1.1.1 Giới thiệu</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="">1.1.1 Giới thiệu</div>
 </div>
 </div>
 </div>
@@ -52,13 +90,13 @@
 </div>
 </div>
 <div class="component-widge" tabindex="0">
-<p><span>Vậy bạn muốn học cách lập trình bằng JavaScript? Thật tuyệt!</span></p>
-<p><span>Khóa học này sẽ là một hành trình khá dài, nhưng nếu bạn hoàn thành khóa học, bạn sẽ có thể đọc, hiểu và tất nhiên là viết các ứng dụng và chương trình JavaScript. Những khả năng mới này có thể hỗ trợ bạn trong công việc hiện tại hoặc cho phép bạn tiếp cận các cơ hội nghề nghiệp mới trong thị trường CNTT đang phát triển ổn định. Hãy bắt đầu cuộc phiêu lưu này mà không cần phải nói thêm gì nữa, và hãy cùng tìm hiểu JavaScript là gì.</span></p>
+<p>Vậy bạn muốn học cách lập trình bằng JavaScript? Thật tuyệt!</p>
+<p>Khóa học này sẽ là một hành trình khá dài, nhưng nếu bạn hoàn thành khóa học, bạn sẽ có thể đọc, hiểu và tất nhiên là viết các ứng dụng và chương trình JavaScript. Những khả năng mới này có thể hỗ trợ bạn trong công việc hiện tại hoặc cho phép bạn tiếp cận các cơ hội nghề nghiệp mới trong thị trường CNTT đang phát triển ổn định. Hãy bắt đầu cuộc phiêu lưu này mà không cần phải nói thêm gì nữa, và hãy cùng tìm hiểu JavaScript là gì.</p>
 <div class="article__header-wrapper background-color-white ">
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level=""><span>1.1.2 Cách giao tiếp với máy tính</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="">1.1.2 Cách giao tiếp với máy tính</div>
 </div>
 </div>
 </div>
@@ -80,15 +118,15 @@
 <div class="component__content">
 <div class="component__body text__body" tabindex="0">
 <div class="component__body-inner text__body-inner">
-<p><span>Hãy bắt đầu với điều hiển nhiên nhất – máy tính hiện diện ở khắp mọi nơi.</span></p>
-<p><span>Gần như chắc chắn bạn đang đọc khóa học này trên máy tính; điện thoại của bạn là một máy tính; bạn sẽ tìm thấy máy tính trong TV và các thiết bị gia dụng khác, chẳng hạn như máy hút bụi tự động, sử dụng máy tính và nhiều cảm biến trong nhiệm vụ không bao giờ kết thúc là loại bỏ bụi bẩn khỏi cuộc sống của bạn.</span></p>
-<p><span>Chúng ta được bao quanh bởi máy tính. Máy tính được sử dụng trong khoa học, y học, ngân hàng và kinh doanh.</span></p>
-<p><span>Chúng tôi cho rằng ngày nay sẽ rất khó để tìm ra bất kỳ lĩnh vực nào của cuộc sống mà máy tính không tham gia tích cực.</span></p>
+<p>Hãy bắt đầu với điều hiển nhiên nhất – máy tính hiện diện ở khắp mọi nơi.</p>
+<p>Gần như chắc chắn bạn đang đọc khóa học này trên máy tính; điện thoại của bạn là một máy tính; bạn sẽ tìm thấy máy tính trong TV và các thiết bị gia dụng khác, chẳng hạn như máy hút bụi tự động, sử dụng máy tính và nhiều cảm biến trong nhiệm vụ không bao giờ kết thúc là loại bỏ bụi bẩn khỏi cuộc sống của bạn.</p>
+<p>Chúng ta được bao quanh bởi máy tính. Máy tính được sử dụng trong khoa học, y học, ngân hàng và kinh doanh.</p>
+<p>Chúng tôi cho rằng ngày nay sẽ rất khó để tìm ra bất kỳ lĩnh vực nào của cuộc sống mà máy tính không tham gia tích cực.</p>
 <div class="article__header-wrapper background-color-gray ">
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level=""><span>1.1.3 JavaScript như một ngôn ngữ được thông dịch</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="">1.1.3 JavaScript như một ngôn ngữ được thông dịch</div>
 </div>
 </div>
 </div>
@@ -111,8 +149,8 @@
 </div>
 </div>
 <div class="component-widge" tabindex="0">
-<p><span>JavaScript là một </span><strong><span>ngôn ngữ thông dịch</span></strong><span> điển hình . Nếu chúng ta chạy một mã được viết bằng JavaScript trong trình duyệt web, khi nó đang diễn ra, chẳng hạn như sau khi tải trang chúng ta đang đọc (vâng, vâng, có các thành phần được viết bằng JavaScript trên trang này nữa), trình thông dịch sẽ là công cụ JavaScript được tích hợp vào trình duyệt. Đây không phải là cách duy nhất để thực thi mã JavaScript.</span></p>
-<p><span>Có lẽ bạn đã nghe nói đến </span><strong><span>node.js.</span></strong><span> Nó cũng là một trình thông dịch, nhưng được cài đặt độc lập với trình duyệt như một môi trường trong hệ điều hành của máy tính (có thể là macOS, Windows hoặc Linux). Sử dụng node.js cho phép bạn viết các chương trình bằng JavaScript, ví dụ, biến máy tính của bạn thành một máy chủ.</span></p>
+<p>JavaScript là một <strong>ngôn ngữ thông dịch</strong> điển hình . Nếu chúng ta chạy một mã được viết bằng JavaScript trong trình duyệt web, khi nó đang diễn ra, chẳng hạn như sau khi tải trang chúng ta đang đọc (vâng, vâng, có các thành phần được viết bằng JavaScript trên trang này nữa), trình thông dịch sẽ là công cụ JavaScript được tích hợp vào trình duyệt. Đây không phải là cách duy nhất để thực thi mã JavaScript.</p>
+<p>Có lẽ bạn đã nghe nói đến <strong>node.js.</strong> Nó cũng là một trình thông dịch, nhưng được cài đặt độc lập với trình duyệt như một môi trường trong hệ điều hành của máy tính (có thể là macOS, Windows hoặc Linux). Sử dụng node.js cho phép bạn viết các chương trình bằng JavaScript, ví dụ, biến máy tính của bạn thành một máy chủ.</p>
 </div>
 </div>
 </div>
@@ -151,20 +189,24 @@
         </author>
         <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-1-modun1.html"/>
         <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-1-modun1.html</id>
+        <media:content url="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/8/javascript1.jpg" medium="image" />
+            <category term="Blog"/>
 
         <updated>2025-01-01T10:34:20+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/8/javascript1.jpg" alt="" />
                     1.0.1 Về khóa học Khóa học này được thiết kế và phát triển bởi Viện OpenEDG JS và được triển khai bởi Học viện mạng Cisco. Khóa học này là khóa học đầu tiên trong chuỗi 2 khóa học sẽ giúp bạn chuẩn bị cho kỳ thi chứng chỉ JSE&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/8/javascript1.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="article__header-wrapper background-color-gray ">
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level=""><span>1.0.1 Về khóa học</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="">1.0.1 Về khóa học</div>
 </div>
 </div>
 </div>
@@ -204,16 +246,16 @@
 <div class="component__content">
 <div class="component__body text__body" tabindex="0">
 <div class="component__body-inner text__body-inner"><br>
-<p><span>Khóa học này được thiết kế và phát triển bởi </span><a href="https://js.institute/" target="_blank" rel="noopener"><span>Viện OpenEDG JS</span></a><span> và được triển khai bởi Học viện mạng Cisco.</span></p>
-<p><span>Khóa học này là khóa </span><strong><span>học đầu tiên trong chuỗi 2 khóa học</span></strong><span> sẽ giúp bạn chuẩn bị cho kỳ thi chứng chỉ </span><a href="https://js.institute/jse-certification" target="_blank" rel="noopener"><span>JSE – Certified Entry-Level JavaScript Programmer</span></a><span> và </span><a href="https://js.institute/jsa-certification" target="_blank" rel="noopener"><span>JSA – Certified Associate JavaScript Programmer</span></a><span> .</span></p>
-<p><span>Mục tiêu chính của khóa học là hướng dẫn bạn từ tình trạng hoàn toàn mù chữ về lập trình đến trình độ kiến ​​thức lập trình cho phép bạn </span><strong><span>thiết kế, viết, gỡ lỗi và chạy các chương trình</span></strong><span> được mã hóa bằng ngôn ngữ JavaScript và hiểu các khái niệm cơ bản về công nghệ phát triển phần mềm.</span></p>
-<p><span>Khóa học tập trung vào </span><strong><span>các khái niệm cốt lõi</span></strong><span> của ngôn ngữ JavaScript , bao gồm các yếu tố cần thiết về cú pháp và ngữ nghĩa JavaScript, các phương pháp lập trình tốt nhất, các công cụ và tài nguyên JS và các khái niệm mã hóa như biến, kiểu dữ liệu, ép kiểu, toán tử, tương tác của người dùng, luồng điều khiển, hàm, lỗi, ngoại lệ, gỡ lỗi và khắc phục sự cố.</span></p>
-<p><span>Khóa học sẽ chuẩn bị cho bạn những công việc và nghề nghiệp liên quan đến </span><strong><span>phát triển phần mềm và web</span></strong><span> được hiểu rộng rãi , bao gồm không chỉ việc tạo mã với tư cách là một nhà phát triển cơ sở mà còn cả </span><strong><span>thiết kế web, phát triển front-end</span></strong><span> và </span><strong><span>thử nghiệm ứng dụng</span></strong><span> .</span></p>
+<p>Khóa học này được thiết kế và phát triển bởi <a href="https://js.institute/" target="_blank" rel="noopener">Viện OpenEDG JS</a> và được triển khai bởi Học viện mạng Cisco.</p>
+<p>Khóa học này là khóa <strong>học đầu tiên trong chuỗi 2 khóa học</strong> sẽ giúp bạn chuẩn bị cho kỳ thi chứng chỉ <a href="https://js.institute/jse-certification" target="_blank" rel="noopener">JSE – Certified Entry-Level JavaScript Programmer</a> và <a href="https://js.institute/jsa-certification" target="_blank" rel="noopener">JSA – Certified Associate JavaScript Programmer</a> .</p>
+<p>Mục tiêu chính của khóa học là hướng dẫn bạn từ tình trạng hoàn toàn mù chữ về lập trình đến trình độ kiến ​​thức lập trình cho phép bạn <strong>thiết kế, viết, gỡ lỗi và chạy các chương trình</strong> được mã hóa bằng ngôn ngữ JavaScript và hiểu các khái niệm cơ bản về công nghệ phát triển phần mềm.</p>
+<p>Khóa học tập trung vào <strong>các khái niệm cốt lõi</strong> của ngôn ngữ JavaScript , bao gồm các yếu tố cần thiết về cú pháp và ngữ nghĩa JavaScript, các phương pháp lập trình tốt nhất, các công cụ và tài nguyên JS và các khái niệm mã hóa như biến, kiểu dữ liệu, ép kiểu, toán tử, tương tác của người dùng, luồng điều khiển, hàm, lỗi, ngoại lệ, gỡ lỗi và khắc phục sự cố.</p>
+<p>Khóa học sẽ chuẩn bị cho bạn những công việc và nghề nghiệp liên quan đến <strong>phát triển phần mềm và web</strong> được hiểu rộng rãi , bao gồm không chỉ việc tạo mã với tư cách là một nhà phát triển cơ sở mà còn cả <strong>thiết kế web, phát triển front-end</strong> và <strong>thử nghiệm ứng dụng</strong> .</p>
 <div class="article__header-wrapper background-color-white ">
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level=""><span>1.0.2 Cấu trúc khóa học</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="">1.0.2 Cấu trúc khóa học</div>
 </div>
 </div>
 </div>
@@ -235,12 +277,12 @@
 <div class="component__content">
 <div class="component__body text__body" tabindex="0">
 <div class="component__body-inner text__body-inner">
-<p><span>Khóa học được chia thành sáu học phần:</span></p>
+<p>Khóa học được chia thành sáu học phần:</p>
 <br>
 <ol>
 <li style="list-style-type: none;">
 <ol>
-<li><strong><span>Mô-đun 1</span></strong><br><span>Giới thiệu về JavaScript và Lập trình máy tính;</span></li>
+<li><strong>Mô-đun 1</strong><br>Giới thiệu về JavaScript và Lập trình máy tính;</li>
 </ol>
 </li>
 </ol>
@@ -248,7 +290,7 @@
 <ol>
 <li style="list-style-type: none;">
 <ol>
-<li><strong><span>Mô-đun 2</span></strong><br><span>Biến, Kiểu dữ liệu, Chuyển đổi kiểu và Bình luận;</span></li>
+<li><strong>Mô-đun 2</strong><br>Biến, Kiểu dữ liệu, Chuyển đổi kiểu và Bình luận;</li>
 </ol>
 </li>
 </ol>
@@ -256,7 +298,7 @@
 <ol>
 <li style="list-style-type: none;">
 <ol>
-<li><strong><span>Mô-đun 3</span></strong><br><span>Người vận hành và tương tác của người dùng;</span></li>
+<li><strong>Mô-đun 3</strong><br>Người vận hành và tương tác của người dùng;</li>
 </ol>
 </li>
 </ol>
@@ -264,7 +306,7 @@
 <ol>
 <li style="list-style-type: none;">
 <ol>
-<li><strong><span>Mô-đun 4</span></strong><br><span>Kiểm soát luồng – Thực thi có điều kiện và vòng lặp;</span></li>
+<li><strong>Mô-đun 4</strong><br>Kiểm soát luồng – Thực thi có điều kiện và vòng lặp;</li>
 </ol>
 </li>
 </ol>
@@ -272,16 +314,16 @@
 <ol>
 <li style="list-style-type: none;">
 <ol>
-<li><strong><span>Chức năng của Module 5</span></strong><br><span>;</span></li>
+<li><strong>Chức năng của Module 5</strong><br>;</li>
 </ol>
 </li>
 </ol>
 <br>
 <ol>
-<li><strong><span>Mô-đun 6</span></strong><br><span>Lỗi, ngoại lệ, gỡ lỗi và khắc phục sự cố.</span></li>
+<li><strong>Mô-đun 6</strong><br>Lỗi, ngoại lệ, gỡ lỗi và khắc phục sự cố.</li>
 </ol>
 <br>
-<p><span>Khóa học kết thúc bằng </span><strong><span>bài kiểm tra cuối cùng</span></strong><span> gồm 30 câu hỏi, đánh giá mức độ hiểu biết của bạn về các khái niệm đã học.</span></p>
+<p>Khóa học kết thúc bằng <strong>bài kiểm tra cuối cùng</strong> gồm 30 câu hỏi, đánh giá mức độ hiểu biết của bạn về các khái niệm đã học.</p>
 </div>
 </div>
 </div>
@@ -316,20 +358,24 @@
         </author>
         <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-1-modun-2.html"/>
         <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-1-modun-2.html</id>
+        <media:content url="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/7/java-module2.jpeg" medium="image" />
+            <category term="Blog"/>
 
         <updated>2025-01-01T10:32:36+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/7/java-module2.jpeg" alt="" />
                     2.0.7 Hằng số Cáchằng sốtừ khóa được sử dụng để khai báo các container tương tự như các biến. Các container như vậy được gọi là hằng số . Hằng số cũng được sử dụng để lưu trữ các giá trị nhất định, nhưng một khi các&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/7/java-module2.jpeg" class="type:primaryImage" alt="" /></p>
                 <div class="article__header-wrapper background-color-gray ">
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level=""><span>2.0.7 Hằng số</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="">2.0.7 Hằng số</div>
 <div tabindex="0" role="heading" aria-level=""> </div>
 </div>
 </div>
@@ -354,8 +400,8 @@
 <p>const  greeting;  //  -&gt;  Uncaught  SyntaxError:  Missing  initializer  in  const  declaration<br>greeting  =  "Hello!";</p>
 <p>Như chúng tôi đã nói, không thể thay đổi hằng số. Lần này khai báo là đúng, nhưng chúng tôi cố gắng sửa đổi giá trị được lưu trữ trong hằng số.</p>
 <p>const  greeting  =  "Hello!";<br>greeting  =  "Hi!";  //  -&gt;  Uncaught  TypeError:  Assignment  to  constant  variable.</p>
-<p><span>Mục đích chính của hằng số là loại trừ khả năng vô tình thay đổi giá trị được lưu trữ trong đó. Điều này quan trọng khi chúng ta có một số giá trị thực sự không bao giờ nên thay đổi. Ví dụ điển hình về hằng số là đường dẫn đến tài nguyên, mã thông báo và dữ liệu khác không bao giờ thay đổi trong suốt vòng đời của tập lệnh.</span></p>
-<p><span>Nhưng hằng số cũng có thể được sử dụng như kết quả phụ trong tính toán hoặc ở những nơi khác mà bất kỳ thông tin nào được thu thập hoặc tính toán sẽ không thay đổi thêm nữa. Sử dụng hằng số, ngoài việc ngăn chặn giá trị bị thay đổi do nhầm lẫn, cho phép công cụ JavaScript tối ưu hóa mã, điều này có thể ảnh hưởng đến hiệu suất của nó.</span></p>
+<p>Mục đích chính của hằng số là loại trừ khả năng vô tình thay đổi giá trị được lưu trữ trong đó. Điều này quan trọng khi chúng ta có một số giá trị thực sự không bao giờ nên thay đổi. Ví dụ điển hình về hằng số là đường dẫn đến tài nguyên, mã thông báo và dữ liệu khác không bao giờ thay đổi trong suốt vòng đời của tập lệnh.</p>
+<p>Nhưng hằng số cũng có thể được sử dụng như kết quả phụ trong tính toán hoặc ở những nơi khác mà bất kỳ thông tin nào được thu thập hoặc tính toán sẽ không thay đổi thêm nữa. Sử dụng hằng số, ngoài việc ngăn chặn giá trị bị thay đổi do nhầm lẫn, cho phép công cụ JavaScript tối ưu hóa mã, điều này có thể ảnh hưởng đến hiệu suất của nó.</p>
 </div>
 </div>
 </div>
@@ -375,20 +421,24 @@
         </author>
         <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-3-2.html"/>
         <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-3-2.html</id>
+        <media:content url="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/6/javascripmodun3.jpg" medium="image" />
+            <category term="Blog"/>
 
         <updated>2025-01-01T10:30:58+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/6/javascripmodun3.jpg" alt="" />
                     3.0.3 Toán tử số học Toán tử số học thể hiện các phép toán và chúng chấp nhận các giá trị và biến số. Tất cả các toán tử số học, ngoại trừ phép cộng, sẽ cố gắng chuyển đổi ngầm các giá trị sang&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/6/javascripmodun3.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="article__header-wrapper top-margin background-color-gray ">
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level="2"><span>3.0.3 Toán tử số học</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="2">3.0.3 Toán tử số học</div>
 </div>
 </div>
 </div>
@@ -416,11 +466,11 @@
 </div>
 <div class="component__widget codeWindow__widget">
 <div class="before-body-text">
-<p><span>Toán tử số học thể hiện các phép toán và chúng chấp nhận các giá trị và biến số. Tất cả các toán tử số học, ngoại trừ phép cộng, sẽ cố gắng chuyển đổi ngầm các giá trị sang kiểu Số trước khi thực hiện phép toán.</span></p>
-<p><span>Toán tử cộng sẽ chuyển đổi mọi thứ thành String nếu bất kỳ toán hạng nào là kiểu String, nếu không, nó sẽ chuyển đổi chúng thành Number giống như các toán tử số học còn lại. Thứ tự các phép toán được tôn trọng trong JavaScript giống như trong toán học và chúng ta có thể sử dụng dấu ngoặc đơn như trong toán học để thay đổi thứ tự phép toán nếu cần.</span></p>
-<p><span>Nhìn chung, sử dụng dấu ngoặc đơn để áp đặt thứ tự và thứ tự của các phép toán là một thói quen tốt, không chỉ là số học. Thứ tự các phép toán do trình thông dịch thực hiện sẽ không phải lúc nào cũng trực quan như thứ tự các phép toán số học được biết đến từ toán học.</span></p>
+<p>Toán tử số học thể hiện các phép toán và chúng chấp nhận các giá trị và biến số. Tất cả các toán tử số học, ngoại trừ phép cộng, sẽ cố gắng chuyển đổi ngầm các giá trị sang kiểu Số trước khi thực hiện phép toán.</p>
+<p>Toán tử cộng sẽ chuyển đổi mọi thứ thành String nếu bất kỳ toán hạng nào là kiểu String, nếu không, nó sẽ chuyển đổi chúng thành Number giống như các toán tử số học còn lại. Thứ tự các phép toán được tôn trọng trong JavaScript giống như trong toán học và chúng ta có thể sử dụng dấu ngoặc đơn như trong toán học để thay đổi thứ tự phép toán nếu cần.</p>
+<p>Nhìn chung, sử dụng dấu ngoặc đơn để áp đặt thứ tự và thứ tự của các phép toán là một thói quen tốt, không chỉ là số học. Thứ tự các phép toán do trình thông dịch thực hiện sẽ không phải lúc nào cũng trực quan như thứ tự các phép toán số học được biết đến từ toán học.</p>
 <p>console.log(2 + 2 * 2); // -&gt; 6<br>console.log(2 + (2 * 2)); // -&gt; 6<br>console.log((2 + 2) * 2); // -&gt; 8</p>
-<p><span>Các toán tử số học nhị phân cơ bản là phép cộng</span><span>+</span><span>, phép trừ</span><span>-</span><span>, phép nhân</span><span>*</span><span>, phân công</span><span>/</span><span>, phần dư của phép chia</span><span>%</span><span>và quyền lực</span><span>**</span><span>. Hoạt động của chúng tương tự như những gì chúng ta biết từ toán học, và cách dễ nhất để theo dõi chúng là sử dụng một ví dụ:</span></p>
+<p>Các toán tử số học nhị phân cơ bản là phép cộng+, phép trừ-, phép nhân*, phân công/, phần dư của phép chia%và quyền lực**. Hoạt động của chúng tương tự như những gì chúng ta biết từ toán học, và cách dễ nhất để theo dõi chúng là sử dụng một ví dụ:</p>
 <p>const x = 5;<br>const y = 2;<br> <br>console.log("addition: ", x + y); // -&gt; 7<br>console.log("subtraction: ", x - y); // -&gt; 3<br>console.log("multiplication: ", x * y); // -&gt; 10<br>console.log("division: ", x / y); // -&gt; 2.5<br>console.log("division remainder :", x % y); // -&gt; 1<br>console.log("exponent: ", x ** y); // -&gt; 25</p>
 </div>
 </div>
@@ -441,20 +491,24 @@
         </author>
         <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-3.html"/>
         <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-3.html</id>
+        <media:content url="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/5/tai-xuong.jpg" medium="image" />
+            <category term="Blog"/>
 
         <updated>2025-01-01T10:29:21+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/5/tai-xuong.jpg" alt="" />
                     3.0.1 Đối tượng tích hợp Bây giờ bạn đã học cách định nghĩa và tạo các đối tượng của riêng mình bằng các kỹ thuật như hàm, hàm tạo hoặc lớp. Cấu trúc của các đối tượng này, tức là các thuộc tính và phương&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/5/tai-xuong.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="article__header-wrapper top-margin background-color-white ">
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level="2"><span>3.0.1 Đối tượng tích hợp</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="2">3.0.1 Đối tượng tích hợp</div>
 </div>
 </div>
 </div>
@@ -477,10 +531,10 @@
 </div>
 </div>
 <div class="component-widge" tabindex="0">
-<p><span>Bây giờ bạn đã học cách định nghĩa và tạo các đối tượng của riêng mình bằng các kỹ thuật như hàm, hàm tạo hoặc lớp.</span></p>
-<p><span>Cấu trúc của các đối tượng này, tức là các thuộc tính và phương thức mà chúng chứa đựng, rõ ràng sẽ xuất phát từ những gì bạn cần tại thời điểm đó.</span></p>
-<p><span>Tuy nhiên, chúng ta không phải tự mình làm mọi thứ. Trong JavaScript, nhiều chức năng của ngôn ngữ được cung cấp dưới dạng các đối tượng được xác định trước, có sẵn.</span></p>
-<p><span>Ví dụ, nếu bạn muốn làm một số phép toán, bạn sẽ với tới</span><span>Toán học</span><span>và bạn sẽ sử dụng JSON để chuyển đổi một đối tượng thành một biểu mẫu có thể gửi qua mạng.</span></p>
+<p>Bây giờ bạn đã học cách định nghĩa và tạo các đối tượng của riêng mình bằng các kỹ thuật như hàm, hàm tạo hoặc lớp.</p>
+<p>Cấu trúc của các đối tượng này, tức là các thuộc tính và phương thức mà chúng chứa đựng, rõ ràng sẽ xuất phát từ những gì bạn cần tại thời điểm đó.</p>
+<p>Tuy nhiên, chúng ta không phải tự mình làm mọi thứ. Trong JavaScript, nhiều chức năng của ngôn ngữ được cung cấp dưới dạng các đối tượng được xác định trước, có sẵn.</p>
+<p>Ví dụ, nếu bạn muốn làm một số phép toán, bạn sẽ với tớiToán họcvà bạn sẽ sử dụng JSON để chuyển đổi một đối tượng thành một biểu mẫu có thể gửi qua mạng.</p>
 <div class="6357a90d27d45c05beea9c1f block  is-complete" data-socialgoodpulse-id="6357a90d27d45c05beea9c1f">
 <div class="block__inner">
 <div class="component__container">
@@ -488,15 +542,15 @@
 <div class="component rawhtml 6357a90d27d45c05beea9c7b  is-full is-complete  " data-socialgoodpulse-id="6357a90d27d45c05beea9c7b">
 <div class="component 6357a90d27d45c05beea9c7b" data-socialgoodpulse-id="6357a90d27d45c05beea9c7b">
 <div class="component-widge" tabindex="0">
-<p><span>Đây là một số </span><strong><span>đối tượng tích hợp sẵn</span></strong><span> tiêu chuẩn .</span></p>
-<p><span>Thuật ngữ "đối tượng tích hợp" là thuật ngữ được chấp nhận rộng rãi, được sử dụng trong tiêu chuẩn ECMAScript hoặc trong tài liệu MDN (Mozilla Developer Network) Web Docs, có lẽ là tài liệu trợ giúp đầy đủ nhất dành cho các nhà phát triển web.</span></p>
-<p><span>Nhiều đối tượng trong số này, như Math và JSON, thực ra là các đối tượng thông thường. Chúng ta sử dụng chúng bằng cách cung cấp tên của đối tượng và phương thức hoặc thuộc tính dành riêng cho đối tượng đó, ví dụ:</span><span>JSON.stringify</span><span>.</span></p>
-<p><span>Tuy nhiên, không phải tất cả các đối tượng "tích hợp sẵn" đều là đối tượng thông thường.</span></p>
-<p><span>Nó chỉ là một thuật ngữ chung mà trong nhiều trường hợp, các lớp hoặc hàm tích hợp, chẳng hạn như</span><span>Sự vật</span><span>hoặc</span><span>Ngày</span><span>, cũng bị ẩn.</span></p>
-<p><span>Vậy chúng ta không nên gọi chúng là "lớp tích hợp" sao?</span></p>
-<p><span>Không nhất thiết – như chúng tôi đã nói trước đó, trong JavaScript mọi thứ ngoại trừ các kiểu nguyên thủy đều là đối tượng, bao gồm các lớp và hàm.</span></p>
-<p><span>Do đó, một quy ước đặt tên thống nhất đã được áp dụng cho tất cả các phần tử (đối tượng, lớp, hàm, hàm tạo) được tích hợp sẵn trong ngôn ngữ.</span></p>
-<p><span>Tuy nhiên, trước khi sử dụng một trong các đối tượng tích hợp sẵn, hãy nhớ kiểm tra xem đó có thực sự là một đối tượng hay chỉ là một lớp mà bạn sẽ sử dụng để tạo ra đối tượng có kiểu cụ thể.</span></p>
+<p>Đây là một số <strong>đối tượng tích hợp sẵn</strong> tiêu chuẩn .</p>
+<p>Thuật ngữ "đối tượng tích hợp" là thuật ngữ được chấp nhận rộng rãi, được sử dụng trong tiêu chuẩn ECMAScript hoặc trong tài liệu MDN (Mozilla Developer Network) Web Docs, có lẽ là tài liệu trợ giúp đầy đủ nhất dành cho các nhà phát triển web.</p>
+<p>Nhiều đối tượng trong số này, như Math và JSON, thực ra là các đối tượng thông thường. Chúng ta sử dụng chúng bằng cách cung cấp tên của đối tượng và phương thức hoặc thuộc tính dành riêng cho đối tượng đó, ví dụ:JSON.stringify.</p>
+<p>Tuy nhiên, không phải tất cả các đối tượng "tích hợp sẵn" đều là đối tượng thông thường.</p>
+<p>Nó chỉ là một thuật ngữ chung mà trong nhiều trường hợp, các lớp hoặc hàm tích hợp, chẳng hạn nhưSự vậthoặcNgày, cũng bị ẩn.</p>
+<p>Vậy chúng ta không nên gọi chúng là "lớp tích hợp" sao?</p>
+<p>Không nhất thiết – như chúng tôi đã nói trước đó, trong JavaScript mọi thứ ngoại trừ các kiểu nguyên thủy đều là đối tượng, bao gồm các lớp và hàm.</p>
+<p>Do đó, một quy ước đặt tên thống nhất đã được áp dụng cho tất cả các phần tử (đối tượng, lớp, hàm, hàm tạo) được tích hợp sẵn trong ngôn ngữ.</p>
+<p>Tuy nhiên, trước khi sử dụng một trong các đối tượng tích hợp sẵn, hãy nhớ kiểm tra xem đó có thực sự là một đối tượng hay chỉ là một lớp mà bạn sẽ sử dụng để tạo ra đối tượng có kiểu cụ thể.</p>
 </div>
 </div>
 </div>
@@ -521,10 +575,10 @@
 </div>
 </div>
 <div class="component-widge" tabindex="0">
-<p><span>Trong mô-đun này, chúng ta sẽ xem xét kỹ hơn một số đối tượng được chọn, có lẽ là những đối tượng được sử dụng phổ biến nhất trong thực hành JavaScript hàng ngày. Đồng thời, ở giai đoạn học này, chúng cũng là những đối tượng dễ hiểu nhất.</span></p>
-<p><span>Chúng ta đã gặp một số đối tượng này (kiểm tra ngày hiện tại là một ví dụ) và những đối tượng khác sẽ được giới thiệu sau trong khóa học (chẳng hạn như</span><span>Hứa</span><span>).</span></p>
-<p><span>Bạn có thể tìm thấy danh sách đầy đủ trên các trang của </span><strong><span>MDN Web Docs </span></strong><sup><span>1</span></sup><span> .</span></p>
-<p><span>Nhân tiện, chúng tôi thực sự khuyên bạn nên xem trang web này. Hãy coi đây là nguồn thông tin cơ bản về JavaScript, sẽ giúp bạn không chỉ trong suốt khóa học này mà còn sau khi hoàn thành.</span></p>
+<p>Trong mô-đun này, chúng ta sẽ xem xét kỹ hơn một số đối tượng được chọn, có lẽ là những đối tượng được sử dụng phổ biến nhất trong thực hành JavaScript hàng ngày. Đồng thời, ở giai đoạn học này, chúng cũng là những đối tượng dễ hiểu nhất.</p>
+<p>Chúng ta đã gặp một số đối tượng này (kiểm tra ngày hiện tại là một ví dụ) và những đối tượng khác sẽ được giới thiệu sau trong khóa học (chẳng hạn nhưHứa).</p>
+<p>Bạn có thể tìm thấy danh sách đầy đủ trên các trang của <strong>MDN Web Docs </strong><sup>1</sup> .</p>
+<p>Nhân tiện, chúng tôi thực sự khuyên bạn nên xem trang web này. Hãy coi đây là nguồn thông tin cơ bản về JavaScript, sẽ giúp bạn không chỉ trong suốt khóa học này mà còn sau khi hoàn thành.</p>
 </div>
 </div>
 </div>
@@ -550,6 +604,7 @@
         </author>
         <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-2.html"/>
         <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun-2.html</id>
+            <category term="Blog"/>
 
         <updated>2025-01-01T10:29:13+07:00</updated>
             <summary>
@@ -563,7 +618,7 @@
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level=""><span>2.0.1 Các lớp học</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="">2.0.1 Các lớp học</div>
 </div>
 </div>
 </div>
@@ -586,13 +641,13 @@
 </div>
 </div>
 <div class="component-widge" tabindex="0">
-<p><span>Cho đến nay, chúng ta đã học được một số phương pháp để tạo đối tượng trong JavaScript. Tất cả chúng đều đại diện cho mô hình không có lớp.</span></p>
-<p><span>Chúng tôi cũng đã nói rằng có một phương pháp quan trọng nữa được giới thiệu vào JavaScript khá muộn (tiêu chuẩn ECMAScript 6). Đó là về các lớp – một loại mẫu đối tượng.</span></p>
-<p><span>Nhưng tại sao lại có phương pháp khác để tạo đối tượng? Có hai lý do chính cho việc này.</span></p>
-<p><span>Đầu tiên là </span><i><span>sự kế thừa</span></i><span> . Bạn có thể nhớ các nguyên mẫu mà chúng ta sử dụng để kế thừa các phương thức và thuộc tính từ một đối tượng được chọn.</span></p>
-<p><span>Và thậm chí nếu bạn không nhớ chính xác cách chúng hoạt động (điều này cũng không có gì lạ), bạn chắc chắn sẽ nhớ rằng đó không phải là kỹ thuật dễ nhất.</span></p>
-<p><span>Nó không thực sự trực quan, đặc biệt là lúc đầu, và để hiểu rõ, bạn phải dành nhiều thời gian thực hành.</span></p>
-<p><span>Trong trường hợp của các lớp, việc kế thừa, ít nhất là từ ký hiệu trong mã, đơn giản hơn rất nhiều.</span></p>
+<p>Cho đến nay, chúng ta đã học được một số phương pháp để tạo đối tượng trong JavaScript. Tất cả chúng đều đại diện cho mô hình không có lớp.</p>
+<p>Chúng tôi cũng đã nói rằng có một phương pháp quan trọng nữa được giới thiệu vào JavaScript khá muộn (tiêu chuẩn ECMAScript 6). Đó là về các lớp – một loại mẫu đối tượng.</p>
+<p>Nhưng tại sao lại có phương pháp khác để tạo đối tượng? Có hai lý do chính cho việc này.</p>
+<p>Đầu tiên là <i>sự kế thừa</i> . Bạn có thể nhớ các nguyên mẫu mà chúng ta sử dụng để kế thừa các phương thức và thuộc tính từ một đối tượng được chọn.</p>
+<p>Và thậm chí nếu bạn không nhớ chính xác cách chúng hoạt động (điều này cũng không có gì lạ), bạn chắc chắn sẽ nhớ rằng đó không phải là kỹ thuật dễ nhất.</p>
+<p>Nó không thực sự trực quan, đặc biệt là lúc đầu, và để hiểu rõ, bạn phải dành nhiều thời gian thực hành.</p>
+<p>Trong trường hợp của các lớp, việc kế thừa, ít nhất là từ ký hiệu trong mã, đơn giản hơn rất nhiều.</p>
 </div>
 </div>
 </div>
@@ -611,20 +666,24 @@
         </author>
         <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun1.html"/>
         <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/javascript-essentials-2-modun1.html</id>
+        <media:content url="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/3/khai-niem-ve-javascript-640w.webp" medium="image" />
+            <category term="Blog"/>
 
         <updated>2025-01-01T10:28:32+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/3/khai-niem-ve-javascript-640w.webp" alt="" />
                     1.1.1 Kiểu dữ liệu nguyên thủy Trong phần trước của khóa học, bạn đã biết một số kiểu dữ liệu nguyên thủy. Trong thực tế, chỉ cócon số,BooleanVàsợi dâycác loại thực sự được sử dụng. Cho dù một loại là một giá trị nhất định&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/3/khai-niem-ve-javascript-640w.webp" class="type:primaryImage" alt="" /></p>
                 <div class="article__header-wrapper background-color-white ">
 <div class="article__header ">
 <div class="article__header-inner ">
 <div class=" article__title ">
-<div class="article__title-inner " tabindex="0" role="heading" aria-level=""><span>1.1.1 Kiểu dữ liệu nguyên thủy</span></div>
+<div class="article__title-inner " tabindex="0" role="heading" aria-level="">1.1.1 Kiểu dữ liệu nguyên thủy</div>
 </div>
 </div>
 </div>
@@ -652,10 +711,10 @@
 </div>
 <div class="component__widget codeWindow__widget">
 <div class="before-body-text">
-<p><span>Trong phần trước của khóa học, bạn đã biết một số kiểu dữ liệu nguyên thủy.</span></p>
-<p><span>Trong thực tế, chỉ có</span><span>con số</span><span>,</span><span>Boolean</span><span>Và</span><span>sợi dây</span><span>các loại thực sự được sử dụng. Cho dù một loại là một giá trị nhất định có thể được kiểm tra bằng</span><span>loại của</span><span>yêu cầu.</span></p>
-<p><span>Với lệnh này, chúng ta cũng có thể kiểm tra không chỉ một giá trị cụ thể mà còn cả một biến (hay chính xác hơn là những gì được đặt bên trong biến đó).</span></p>
-<p><span>Hãy thử thực hiện các lệnh sau trong bảng điều khiển và quan sát kết quả. Ngoài ra, bạn nên thử kiểm tra từng đoạn mã mẫu mà chúng ta thảo luận.</span></p>
+<p>Trong phần trước của khóa học, bạn đã biết một số kiểu dữ liệu nguyên thủy.</p>
+<p>Trong thực tế, chỉ cócon số,BooleanVàsợi dâycác loại thực sự được sử dụng. Cho dù một loại là một giá trị nhất định có thể được kiểm tra bằngloại củayêu cầu.</p>
+<p>Với lệnh này, chúng ta cũng có thể kiểm tra không chỉ một giá trị cụ thể mà còn cả một biến (hay chính xác hơn là những gì được đặt bên trong biến đó).</p>
+<p>Hãy thử thực hiện các lệnh sau trong bảng điều khiển và quan sát kết quả. Ngoài ra, bạn nên thử kiểm tra từng đoạn mã mẫu mà chúng ta thảo luận.</p>
 <p>console.log(typeof 2.5); // -&gt; number<br>console.log(typeof "one two three"); // -&gt; string<br>console.log(typeof false); // -&gt; boolean</p>
 <p>Các giá trị có thể được đặt trong các biến - chúng ta có thể lưu trữ chúng ở đó hoặc thực hiện các hành động trên chúng (ví dụ: chia số hoặc hợp nhất chuỗi).</p>
 <p>let nr = 2.5; <br>nr = nr / 2;<br>console.log(typeof nr); // -&gt; number</p>
@@ -678,15 +737,19 @@
         </author>
         <link href="https://Sk21tsv.github.io/BlogNguyenHaiSon/khoa-hoc-javascript-essentials-2.html"/>
         <id>https://Sk21tsv.github.io/BlogNguyenHaiSon/khoa-hoc-javascript-essentials-2.html</id>
+        <media:content url="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/2/javascrip2.png" medium="image" />
+            <category term="Blog"/>
 
         <updated>2025-01-01T10:23:05+07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/2/javascrip2.png" alt="" />
                     1.0.1 Về khóa học Dựa trên nền tảng của JavaScript Essentials 1 , hãy đi sâu hơn vào sự phức tạp của lập trình JavaScript với khóa học này. Khám phá các khái niệm lập trình hướng đối tượng (OOP) nâng cao và nâng cao&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://Sk21tsv.github.io/BlogNguyenHaiSon/media/posts/2/javascrip2.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     1.0.1 Về khóa học
